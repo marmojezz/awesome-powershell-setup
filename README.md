@@ -1,5 +1,4 @@
-# awsome-powershell-setup
-This repository guides you to have an awome development environment for Windows.
+# Awesome PowerShell And Visual Code Setup
 
 What do you thing abnout the following terminal and visual code configurations styles? For me, it is AWESOME!
 ![image](https://github.com/marmojezz/awsome-powershell-setup/assets/5059275/6a36a4fc-8a14-4897-832f-a63776b2720a)
